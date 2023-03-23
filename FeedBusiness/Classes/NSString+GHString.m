@@ -9,4 +9,8 @@
 
 @implementation NSString (GHString)
 
+- (NSString *)getName {
+    return @"cgh";
+}
+
 @end

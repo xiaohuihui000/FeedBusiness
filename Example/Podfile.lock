@@ -1,0 +1,16 @@
+PODS:
+  - FeedBusiness (0.1.0)
+
+DEPENDENCIES:
+  - FeedBusiness (from `../`)
+
+EXTERNAL SOURCES:
+  FeedBusiness:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FeedBusiness: d94bf840256a2f14bd01d452aa67de28d45dcf92
+
+PODFILE CHECKSUM: bac34eebff593857d19fbd671e7af05423d928aa
+
+COCOAPODS: 1.11.3

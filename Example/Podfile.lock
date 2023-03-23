@@ -1,5 +1,5 @@
 PODS:
-  - FeedBusiness (0.1.0)
+  - FeedBusiness (0.1.1)
 
 DEPENDENCIES:
   - FeedBusiness (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FeedBusiness: d94bf840256a2f14bd01d452aa67de28d45dcf92
+  FeedBusiness: aac88f18f50268469aa2db8b85ac7a49b11a68dc
 
 PODFILE CHECKSUM: bac34eebff593857d19fbd671e7af05423d928aa
 
